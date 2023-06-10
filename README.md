@@ -6,7 +6,7 @@ Front End Architecture Solutions
 <br />
 
 <p align="center" width="100%">
-    <img src="https://i.ibb.co/sJFG9k3/Nextjs-React-Arhitecture-for-Cutom-Ui-New-drawio.png">
+    <img src="https://i.ibb.co/sWrRn0h/Nextjs-React-Arhitecture-for-Cutom-Style-drawio.png">
 </p>
 
 <br />
