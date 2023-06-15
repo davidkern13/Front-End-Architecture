@@ -14,7 +14,7 @@ Front End Architecture Solutions
 <br />
 
 <p align="center" width="100%">
-    <img src="https://i.ibb.co/HYxy4bK/Video-Editor-Nextjs-React-Client-Arhitecture-drawio.png">
+    <img src="https://i.ibb.co/r0V3mqB/Untitled-Diagram.jpg">
 </p>
 
 
